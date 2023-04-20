@@ -1,4 +1,4 @@
-#J.A.T.E. - Just Another Text Editor
+# J.A.T.E. - Just Another Text Editor
   
 ![badge](https://img.shields.io/badge/license-MIT-blue.svg)
 
