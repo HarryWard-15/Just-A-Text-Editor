@@ -38,8 +38,8 @@ The link to the deployed application is: //.
 
 
 ## Demo
-Below is the demostration of this application. Please click <a href="https://www.youtube.com/watch?v=-CxXQmsFrb8" target="_blank">here</a> for walk-through video.
-<img src="images/demo.gif" alt="demo" />
+Below is the demostration of this application. Please click <a href="#">here</a> for walk-through video.
+
 
 
 ## License
